@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JavaMCQAjith</string>
+
+    <string name="question">Question </string>
+    <string name="option">Choose The Correct Answer</string>
+    <string name="check">Check</string>
+
+    <string name="correct_answer">Correct Answer</string>
+    <string name="incorrect_answer">In Correct Answer</string>
+</resources>
